@@ -91,9 +91,10 @@ main {
     color: #ffffff;
 }
 
-.benefit-block h3 {
+.benefit-block h2 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 18.72px
 }
 
 .benefit-block img {
