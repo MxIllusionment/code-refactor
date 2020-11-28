@@ -30,7 +30,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 #seo {
     color: #d9dcd6;
 }
 
@@ -52,7 +52,7 @@ header nav ul li {
 }
 
 /* Main title image */
-.hero {
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -97,7 +97,7 @@ main {
 }
 
 /* Aside with benefits */
-.benefits {
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
