@@ -12,3 +12,6 @@ This project is an exercise in refactoring and correcting a website's HTML and C
 
 ## Deployment
 The website has been deployed on GitHub as https://malenchite.github.io/code-refactor/
+
+## Credit
+This repo was created as an assignment in the UNC Coding Bootcamp. All original code and image assets were provided as part of that assignment.
